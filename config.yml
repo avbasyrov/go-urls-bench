@@ -1,0 +1,5 @@
+request-timeout: 5s
+throttle-multiplier: 1.5
+throttle-minimal-margin: 500ms
+query-cache-ttl: 20m
+max-response-time: 30s
